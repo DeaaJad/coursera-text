@@ -1,0 +1,52 @@
+@media (min-width: 575.98px){
+    .hide{
+        visibility: hidden;
+    }
+}
+@media (max-width: 575.98px){
+    .row{
+        margin: 0 20px 20px 20px;
+    }
+    section{
+        padding: 15px;
+    }
+}
+body{
+    font-family: serif;
+}
+
+h1.navbar-brand{
+    font-size: 2.5em;
+    font-style: bold;
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+div #color{
+    color: black;
+}
+#Chicken{
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: #122222;
+    color: #eeeeee;
+}
+#Beef{
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: #304444;
+    color: #eeeeee;
+}
+#Sushi{
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: #566666;
+    color: #eeeeee;
+}
+.hide{
+    background-color: #22a2a2;
+    font-style: black;
+}
+#bottom-link{
+    color: #b22222;
+    font-size: 1.2em;
+}

@@ -1,0 +1,11 @@
+.d-flex{
+	background-color: #dddddd;
+	border: 2px dashed #aaaaaa;
+}
+.p-2{
+	border: 2px solid #bbbbbb;
+	margin: 2px;
+}
+.big{
+	height: 100px;
+}
