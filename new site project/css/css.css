@@ -1,0 +1,45 @@
+@media (min-width: 575.98px){
+    .hide{
+        visibility: hidden;
+    }
+}
+@media (max-width: 575.98px){
+    .hide-xs{
+        visibility: hidden;
+    }
+}
+body{
+    font-family: serif;
+    box-sizing: border-box;
+    background-image: url(BingWallpaper.jpg);
+}
+h2{
+    font-size: 6em;
+    color: #090909;
+}
+.navbar-brand{
+    font-size: 1.3em;
+    font-style: bold;
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+button{
+    margin-top: 2px;
+}
+.navbar-toggler{
+    margin-right: -10px;
+}
+.nav-link{
+    text-align: center;
+}
+a.nav-link:hover {
+  
+  background-color: #9a9a9a;
+  font-size: 1.5em;
+  
+}
+#bg-imge{
+    background-image: url('BingWallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
